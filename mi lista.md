@@ -13,7 +13,7 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 https://ythls.onrender.com/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BjJnRBJ/TN-2011.png",Todo Noticias TN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0028
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 #EXTINF:-1 ,Canal NET Tv
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -35,6 +35,9 @@ https://panel.dattalive.com/8204/8204/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/887.png", Telemax HD
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+
+#EXTINF:-1 ,Canal GEN TV
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
 #EXTINF:-1 ,Canal RT español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
@@ -69,6 +72,12 @@ http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMUSTOP.png", Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
+#EXTINF:-1 ,Musica ON Radio 
+https://clientes.videostreaming.ar:19360/onradio/onradio.m3u8
+
+#EXTINF:-1 ,TierraMia
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jd7PpDY/extrema-tv.jpg", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
@@ -93,6 +102,9 @@ https://live1.presstv.ir/live/hispan.m3u8
 #EXTINF:-1 ,MULTIMEDIOS
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
+#EXTINF:-1 ,NEO TV Digital
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
 #EXTINF:-1 ,Canal 8 Mar del Plata
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
@@ -102,8 +114,22 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 ,Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
+#EXTINF:-1 ,Canal Hispan TV
+https://live1.presstv.ir/live/hispan.m3u8
 
 
-#EXTINF:-1 ,
-#EXTINF:-1 ,
+#EXTINF:-1 ,Canal 34 SanJuan TV
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
+#EXTINF:-1 ,Cosmo TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1 ,Canal TDC HD
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+
+
+#EXTINF:-1 ,Canal 5 - SantaFe
+https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8
+
+#EXTINF:-1 ,Uniteve 34 - Cordoba
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
